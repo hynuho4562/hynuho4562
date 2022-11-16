@@ -7,7 +7,7 @@
 <div align="center">
   <h2>   ✍️ WEB Developer & Language </h2><br>
   
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> <br><br>
 </div>
 
 <div align="center">
